@@ -3811,12 +3811,12 @@ Created using IcoMoon - icomoon.io
 :root {
   --color-bg1: rgb(255, 58, 0);
   --color-bg2: rgb(255, 58, 0);
-  --color1: 202, 75, 55;
+  --color1: 232, 151, 63;
   --color2: 232, 151, 63;
-  --color3: 215, 94, 53;
-  --color4: 202, 75, 55;
+  --color3: 232, 151, 63;
+  --color4: 232, 151, 63;
   --color5: 232, 151, 63;
-  --color6: 215, 94, 53;
+  --color6: 232, 151, 63;
   /*--color-interactive: 140, 100, 255;*/
   --circle-size: 80%;
   --blending: hard-light;
