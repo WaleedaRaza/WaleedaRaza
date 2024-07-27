@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for Taking a look!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Linkedin: https://www.linkedin.com/in/waleedaraza/
+
+Instagram: https://www.instagram.com/wwwaleedraza/?locale=zh-hans
+
